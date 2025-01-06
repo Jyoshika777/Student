@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "677b59d25591e4ddbc4eeb86"
+  },
+  "name": "Jyoshika",
+  "age": 20,
+  "cgpa": 8.6
+},
+{
+  "_id": {
+    "$oid": "677b5cb65591e4ddbc4eeb87"
+  },
+  "name": "Amulya",
+  "age": 19,
+  "cgpa": 7.5
+},
+{
+  "_id": {
+    "$oid": "677b5cb65591e4ddbc4eeb88"
+  },
+  "name": "Jhansi Rani",
+  "age": 20,
+  "cgpa": 7
+},
+{
+  "_id": {
+    "$oid": "677b5cb65591e4ddbc4eeb89"
+  },
+  "name": "Rohini",
+  "age": 20,
+  "cgpa": 8
+},
+{
+  "_id": {
+    "$oid": "677b5ec55591e4ddbc4eeb8a"
+  },
+  "name": "Queen",
+  "age": 25,
+  "cgpa": 8.6
+},
+{
+  "_id": {
+    "$oid": "677b658d5591e4ddbc4eeb8b"
+  },
+  "name": "Sravya",
+  "age": 19,
+  "cgpa": 8.7
+},
+{
+  "_id": {
+    "$oid": "677b65bc5591e4ddbc4eeb8c"
+  },
+  "name": "Anna mani",
+  "age": 20,
+  "cgpa": 7.2
+},
+{
+  "_id": {
+    "$oid": "677b65d75591e4ddbc4eeb8d"
+  },
+  "name": "Mamatha",
+  "age": 20,
+  "cgpa": 7.5
+}]
